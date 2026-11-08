@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "diamondfarm:block/diamond_crop_stage1"
+  }
+}
